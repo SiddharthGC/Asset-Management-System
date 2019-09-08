@@ -1,5 +1,5 @@
 <!--Help page
-Author : Pankaj J
+Author : Siddharth Chandrasekar
 Last Modified : 4/5/17 10:00 P.M-->
 
 <?php
